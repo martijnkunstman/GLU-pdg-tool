@@ -1,0 +1,1 @@
+npm run <dev|build|start|lint|lint:fix|format>
